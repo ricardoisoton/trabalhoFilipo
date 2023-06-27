@@ -1,0 +1,28 @@
+    .vertex {
+      width: 25px;
+      height: 25px;
+      border-radius: 50%;
+      background-color: lightgray;
+      border: 1px solid black;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: absolute;
+    }
+
+    .vermelho {
+      background-color: red;
+    }
+
+    .azul {
+      background-color: blue;
+    }
+
+    .verde {
+      background-color: green;
+    }
+
+    .connection {
+      position: absolute;
+      border: 2px solid black;
+    }
