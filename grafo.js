@@ -1,6 +1,6 @@
 // Função para colorir o grafo
 function colorGraph(numVertices, connections) {
-  const colors = ['red', 'blue', 'green']; // Lista de cores disponíveis
+  const colors = ['vermelho', 'azul', 'verde']; // Lista de cores disponíveis
   const coloredVertices = {}; // Armazena as cores atribuídas aos vértices
 
   // Itera sobre cada vértice
